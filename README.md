@@ -1,7 +1,7 @@
 <h1 align="center">Assalamualikum👋, I'm Md Mohaiminul Islam Imran</h1>
 <h3 align="center">A passionate Data Data Scientist, Data analyst, Full Stack web developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/imran_bin_md" target="blank"><img src="https://img.shields.io/twitter/follow/imran_bin_md?logo=twitter&style=for-the-badge" alt="imran_bin_md" /></a> </p>
+ <img align="right" alt="coding" width="305" src="https://github.com/emumia/Md-Mohaiminul-Islam-Imran/blob/main/git_animation.gif"> 
 
 - 🔭 I’m currently working on [Heart Disease Checker](https://github.com/emumia/Heart-Disease-Checker)
 
