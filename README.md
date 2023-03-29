@@ -16,7 +16,7 @@
 <a href="https://twitter.com/imran_bin_md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imran_bin_md" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-imran-014299117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-imran-014299117/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/mdimran6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdimran6666" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@code_2_learn6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@code_2_learn6666" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@code_2_learn6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@code_2_learn6666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
